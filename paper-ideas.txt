@@ -1,0 +1,18 @@
+Cada K pro uma n grade
+
+k , lambda , aadicionar 
+Discutir o caracter das fucoes de onda
+
+NIST calculo o \mu/\rho coeficiente de absorcao vs comprimento de onda pra raios X, 
+
+Colocar a grafica do com variacao de voltajem. 
+Pro LiF, Nacl, 
+Fazer a grafica de energia
+
+Colocar tambem pra segunda ordem, no grafico E eV vs. Z²
+Ek=R(hc/e)/(Z-rho)²)
+
+Provando os estados quasi continues por difracao de raios X, um estudo de esto pra fazer no laboratorio 
+intersaco de kalpha com o nist,
+GPT pro probabilidade de transicao  optidca pro raio x a funcao de probabiliade do quasi ocntinu asimo como no outro.
+Caracter entre um estado de oscila poco pro outra que oscila muito..
